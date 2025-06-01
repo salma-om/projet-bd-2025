@@ -4,6 +4,8 @@
     -Salma OUMESSAOUD - info gr:3
 ## Date 
     Le 31-05-2025 
+## Démonstration
+    Une vidéo de démonstration est disponible [ici](https://drive.google.com/drive/folders/1rh2Qg7Om8cuf2AycEXCqVh8Dejoe43OJ?usp=drive_link).
 ## Description
 Ce projet représente une application de gestion hôtelière développée dans le cadre d'un travail universitaire. Il se divise en deux parties principales :
 - **Partie 1** : Création et interrogation d'une base de données à l'aide de MySQL Workbench.
